@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="fbApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/fbApp</output-path>
+    <root id="archive" name="fbApp.war" />
+  </artifact>
+</component>
